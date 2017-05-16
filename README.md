@@ -1,4 +1,4 @@
-Monster Clone
+AJAX Demo
 =========================
 
 **By Alexandra Holcombe && Caitlin Hines**  
